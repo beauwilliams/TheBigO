@@ -5,7 +5,7 @@ public class Exponential {
                 System.out.println("Starting...");
                 int k = 2;
                 int n = 5;
-                //k^n so 2 to the power of 4 times = 32
+                //k^n so 2 to the power of 5 times = 32
 
                 final long startTime = System.currentTimeMillis();
                 for( int i = 0; i < Math.pow(k, n); i++) {
