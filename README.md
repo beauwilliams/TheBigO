@@ -12,7 +12,6 @@ Take a look at the source codes to find out :yum:
 
 ## Planned
 
-- More JS
 - C
 - Rust
 - Python
