@@ -9,10 +9,10 @@ Take a look at the source codes to find out :yum:
 
 - Java
 - Javascript
+- Python
 
 ## Planned
 
 - C
 - Rust
-- Python
 - We'll see how we go..!
