@@ -1,4 +1,4 @@
-# Run Java code
+# Run Java Code
 
 - Open up your 'terminal'
 - type: `java <pathtojavafile.java>`
