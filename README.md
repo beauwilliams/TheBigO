@@ -1,5 +1,5 @@
 # TheBigO
-A little bit of juicy action on algorithmic complexity :smiling_imp:
+A little bit of juicy action on algorithmic complexity
 
 ## What does that even _mean_??
 
