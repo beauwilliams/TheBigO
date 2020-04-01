@@ -65,6 +65,9 @@ console.log(`Elapsed time: ${(time4 - time3) / 1000} seconds`);
 // BIG-O is an ASYMPTOTIC represenation of TC
 //That is it is not representative of any particular algorithm
 //But of its ASYMPTOTE - i.e the limit of the Fn
+//
+// Clairification of the above..
+// An Asymptote is basically the line that for example an exponential curve never touches on a graph, but seemingly alomst converges on as it approaches infinity
 
 //*************GENERAL RULES OF THUMB */
 
