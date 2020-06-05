@@ -1,6 +1,6 @@
-print("Starting...")
-
 import timeit
+
+print("Starting...")
 
 code_to_test = """
 n = 16

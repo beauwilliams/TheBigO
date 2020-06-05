@@ -1,7 +1,6 @@
+import timeit
 
 print("Starting...")
-
-import timeit
 
 code_to_test = """
 n = 9001
