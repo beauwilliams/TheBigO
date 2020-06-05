@@ -1,4 +1,4 @@
 # ignore java classes
 *.class
 # ignore rust build
-target/
+**/target/
