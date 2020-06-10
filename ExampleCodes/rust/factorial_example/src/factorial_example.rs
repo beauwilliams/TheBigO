@@ -21,6 +21,6 @@ pub fn factorial_example() {
 }
 
 fn factorial_of_n(n: u32) -> u32 {
-    let result: u32 = factorial::Factorial::factorial(&n);
+    let result: u32 = factorial::Factorial::factorial(&n); //using borrow checker here to read n as immutable, n still owns n, we are just 'looking' at it.
     return result;
 }
